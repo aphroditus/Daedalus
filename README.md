@@ -1,4 +1,4 @@
-# iTXTech Daedalus
+# IntraNIC DNS (Android)
 
 [![Donate](https://img.shields.io/badge/alipay-donate-yellow.svg)](https://qr.alipay.com/FKX04751EZDP0SQ0BOT137)
 [![Build Status](https://travis-ci.org/iTXTech/Daedalus.svg?branch=master)](https://travis-ci.org/iTXTech/Daedalus)
@@ -45,11 +45,9 @@ __Users must comply with local laws and regulations.__<br>
 
 ## DNS Server Providers
 
-* __CuteDNS__ - *Shutdown according to regulations*
-* __[FUN DNS](http://fundns.cn)__ - *Shutdown according to regulations*
-* __[Pure DNS](https://puredns.cn/)__ - *Shutdown according to regulations*
-* __[PdoMo-DNS](https://pdomo.me/)__ - *Shutdown according to regulations*
-* __[rubyfish](https://www.rubyfish.cn)__ - *Free DoT/DoH DNS*
+* __[IntraNIC](https://intranic.org)__ *Default provider*
+* __OpenNIC__
+* __New Natioons__
 
 ## Rule Providers
 
@@ -75,7 +73,7 @@ __Users must comply with local laws and regulations.__<br>
 * __[JetBrains](https://www.jetbrains.com/)__ - For providing free license for [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
 ## License
-
+    Copyright (C) 2021 IntraNIC <intranicnetwork@gmail.com>
     Copyright (C) 2017-2019 iTX Technologies <admin@itxtech.org>
     
 	This program is free software: you can redistribute it and/or modify
