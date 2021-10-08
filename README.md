@@ -1,6 +1,6 @@
 # IntraNIC DNS (Android)
 
-[![Donate](https://paypal.me/faeempress)
+[Donate](https://paypal.me/faeempress)
 
 __No root required Android DNS modifier and Hosts/DNSMasq resolver.__
 
