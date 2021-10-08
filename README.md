@@ -1,11 +1,8 @@
 # IntraNIC DNS (Android)
 
-[![Donate](https://img.shields.io/?logo=appveyor](https://paypal.me/faeempress)
+[![Donate](https://paypal.me/faeempress)
 
 __No root required Android DNS modifier and Hosts/DNSMasq resolver.__
-
-## Installation
-* __[Releases](https://github.com/intranicnetwork/intranicdns-android/releases)__ - Release signature
 
 [<img alt='Get it on Google Play'
       src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'
