@@ -1,15 +1,11 @@
 # IntraNIC DNS (Android)
 
-[![Donate](https://img.shields.io/badge/alipay-donate-yellow.svg)](https://qr.alipay.com/FKX04751EZDP0SQ0BOT137)
-[![Build Status](https://travis-ci.org/iTXTech/Daedalus.svg?branch=master)](https://travis-ci.org/iTXTech/Daedalus)
-[![Jenkins](https://img.shields.io/jenkins/s/http/dev.itxtech.org:10298/job/Daedalus.svg)](http://dev.itxtech.org:10298/job/Daedalus/)
+[![Donate](https://img.shields.io/?logo=appveyor](https://paypal.me/faeempress)
 
 __No root required Android DNS modifier and Hosts/DNSMasq resolver.__
 
 ## Installation
-* __[Jenkins](http://dev.itxtech.org:10298/job/Daedalus/)__ - Debug signature
-* __[Releases](https://github.com/iTXTech/Daedalus/releases)__ - Release signature
-* __[Play Test](https://play.google.com/apps/testing/org.itxtech.daedalus)__ - Release signature
+* __[Releases](https://github.com/intranicnetwork/intranicdns-android/releases)__ - Release signature
 
 [<img alt='Get it on Google Play'
       src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'
